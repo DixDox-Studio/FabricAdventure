@@ -1,0 +1,398 @@
+{
+  "AmbientSounds_FABRIC_v6.1.3_mc1.20.1.jar": {
+    "repoLink": "https://github.com/DixDox-Studio/FabricAdventure",
+    "sha": "c4dae76ef20a54ce612921ce1bb82524e4f68828ef965cde2de5fc2b6b47a241",
+    "version": "0.0.3"
+  },
+  "AttributeFix-Fabric-1.20.1-21.0.4.jar": {
+    "repoLink": "https://github.com/DixDox-Studio/FabricAdventure",
+    "sha": "40583a0336c3106cae0624045fee09f1e271fc5840f4e6b21cec7867de176059",
+    "version": "0.0.3"
+  },
+  "BOMD-1.7.5-1.20.1.jar": {
+    "repoLink": "https://github.com/DixDox-Studio/FabricAdventure",
+    "sha": "85bec458ba79760be82085657865631afbbcd82e7b55b4948e63451c0dc685f2",
+    "version": "0.0.3"
+  },
+  "BetterAdvancements-Fabric-1.20.1-0.4.2.10.jar": {
+    "repoLink": "https://github.com/DixDox-Studio/FabricAdventure",
+    "sha": "18138206487742a245b210217b7a53b7c5b738f30593a38a279e0d49dcc29c4c",
+    "version": "0.0.3"
+  },
+  "Bookshelf-Fabric-1.20.1-20.2.13.jar": {
+    "repoLink": "https://github.com/DixDox-Studio/FabricAdventure",
+    "sha": "4da44061c9daf2c8b44531609f381b9b92bb207d9709753ead3b6ef1f6adcd7a",
+    "version": "0.0.3"
+  },
+  "Bountiful-6.0.3+1.20.1-fabric.jar": {
+    "repoLink": "https://github.com/DixDox-Studio/FabricAdventure",
+    "sha": "7c8403e59e7039d4ca6b3c8d817f6ac1da60b026a823b8c9c29b4852f85b498a",
+    "version": "0.0.3"
+  },
+  "Clumps-fabric-1.20.1-12.0.0.4.jar": {
+    "repoLink": "https://github.com/DixDox-Studio/FabricAdventure",
+    "sha": "a0d0ce5923745b852de93cd831336992512f884e26872287e0a4af13e4acc67b",
+    "version": "0.0.3"
+  },
+  "CombatBash-1.20.1-1.2.1.jar": {
+    "repoLink": "https://github.com/DixDox-Studio/FabricAdventure",
+    "sha": "018a5bf961f09c057a2c26baaeefbeff88166826ece428c89b9ba9ec8e8e22aa",
+    "version": "0.0.3"
+  },
+  "Controlling-fabric-1.20.1-12.0.2.jar": {
+    "repoLink": "https://github.com/DixDox-Studio/FabricAdventure",
+    "sha": "bc7eced182b73adf773be705f21081bf24854fb5162c0426c6bb6d55e9b88d38",
+    "version": "0.0.3"
+  },
+  "Corgilib-Fabric-1.20.1-4.0.3.2.jar": {
+    "repoLink": "https://github.com/DixDox-Studio/FabricAdventure",
+    "sha": "dcddde15e6cc083a3be69b39ad14229b3d2a5427cacc0bdde5b2bc701bedcbfc",
+    "version": "0.0.3"
+  },
+  "CreativeCore_FABRIC_v2.12.22_mc1.20.1.jar": {
+    "repoLink": "https://github.com/DixDox-Studio/FabricAdventure",
+    "sha": "f18c8d68528363511e4ac0caceea09373fd6d8249152d3eb6332a9650d3cfc15",
+    "version": "0.0.3"
+  },
+  "Croptopia-1.20.1-FABRIC-3.0.4.jar": {
+    "repoLink": "https://github.com/DixDox-Studio/FabricAdventure",
+    "sha": "f04b09bdd0c6843b3282efcd39203e747ef1cbef1277d5eef9c6c674c75fc854",
+    "version": "0.0.3"
+  },
+  "Death_Knights-0.6.0beta+1.20.1.jar": {
+    "repoLink": "https://github.com/DixDox-Studio/FabricAdventure",
+    "sha": "fea9537b4c36c16180566ae7f7853a7921ca7ca81732f97ee63a203fc7ac4d8b",
+    "version": "0.0.3"
+  },
+  "DungeonsArise-1.20.x-2.1.58-fabric-release.jar": {
+    "repoLink": "https://github.com/DixDox-Studio/FabricAdventure",
+    "sha": "b51a10622bbcb575b026eb434e9e44ed42d334351d7990c06718c3275f92980a",
+    "version": "0.0.3"
+  },
+  "DungeonsAriseSevenSeas-1.20.x-1.0.2-fabric.jar": {
+    "repoLink": "https://github.com/DixDox-Studio/FabricAdventure",
+    "sha": "e1d06438a5a9618fca45e754e7698b68b82eed15b3971ab742174c54d41d6ac9",
+    "version": "0.0.3"
+  },
+  "Towns-and-Towers-1.12-Fabric+Forge.jar": {
+    "repoLink": "https://github.com/DixDox-Studio/FabricAdventure",
+    "sha": "9c8115af7109579da990249fdd67b38323a45be70f8a3a962b61da69c7021984",
+    "version": "0.0.3"
+  },
+  "TreeChop-1.20.1-fabric-0.19.0.jar": {
+    "repoLink": "https://github.com/DixDox-Studio/FabricAdventure",
+    "sha": "66ad56c20fc07fddbfc5144d98c70fa85b5fce43dd0d68474a4aa5d2d748705f",
+    "version": "0.0.3"
+  },
+  "UndergroundVillages-fabric-1.20.1-2.1.0.jar": {
+    "repoLink": "https://github.com/DixDox-Studio/FabricAdventure",
+    "sha": "b7067b81e9a42c8585ee1b4b4f039cbddeab164e9467abdc360d27889daa5018",
+    "version": "0.0.3"
+  },
+  "VisualWorkbench-v8.0.0-1.20.1-Fabric.jar": {
+    "repoLink": "https://github.com/DixDox-Studio/FabricAdventure",
+    "sha": "802e1015ea979c7c99bb19b8e0824e744e68e40869520042beca577b90d0be40",
+    "version": "0.0.3"
+  },
+  "YungsApi-1.20-Fabric-4.0.6.jar": {
+    "repoLink": "https://github.com/DixDox-Studio/FabricAdventure",
+    "sha": "26b6dc81f876aabf3d53ead59e5908a8b0f5434d46c150cfd376c027ac54053e",
+    "version": "0.0.3"
+  },
+  "YungsBridges-1.20-Fabric-4.0.3.jar": {
+    "repoLink": "https://github.com/DixDox-Studio/FabricAdventure",
+    "sha": "9a4548727fd22fd06efa5a70b4bda0231249be107aa5b91acc615981d558ebb0",
+    "version": "0.0.3"
+  },
+  "additional_rpg_jewelry-1.0.6.jar": {
+    "repoLink": "https://github.com/DixDox-Studio/FabricAdventure",
+    "sha": "9f07ce9154954bd6a50ac1fb5f87ca470084c280ac03160e0fd3aa1249b54373",
+    "version": "0.0.3"
+  },
+  "adventurez-1.4.20.jar": {
+    "repoLink": "https://github.com/DixDox-Studio/FabricAdventure",
+    "sha": "59663cb3d9d6dd16605ef5d18179889af730e9175871843c6b48a66168e8c11a",
+    "version": "0.0.3"
+  },
+  "alloy-forgery-2.1.2+1.20.jar": {
+    "repoLink": "https://github.com/DixDox-Studio/FabricAdventure",
+    "sha": "eae8e06513c458f8aba8396188078a22e2c65f1228f48f5288d1755439518666",
+    "version": "0.0.3"
+  },
+  "amendments-1.20-1.2.12-fabric.jar": {
+    "repoLink": "https://github.com/DixDox-Studio/FabricAdventure",
+    "sha": "11c65503eb8ba12d010ac23e5275daff0af4858a21aadcb4318826e6b23b2959",
+    "version": "0.0.3"
+  },
+  "amethyst_core-1.5.0+1.20.1.jar": {
+    "repoLink": "https://github.com/DixDox-Studio/FabricAdventure",
+    "sha": "91fe5336d6c32803c6ab19e9f0dc1074b212e160676868057892ad13f626e98f",
+    "version": "0.0.3"
+  },
+  "amethyst_imbuement-1.20.1-19.8.jar": {
+    "repoLink": "https://github.com/DixDox-Studio/FabricAdventure",
+    "sha": "9bbb1cbb7e2b383e5d6e981b53b6cd44c8c51ba3564c09f632c5e26c74fd75b5",
+    "version": "0.0.3"
+  },
+  "appleskin-fabric-mc1.20.1-2.5.1.jar": {
+    "repoLink": "https://github.com/DixDox-Studio/FabricAdventure",
+    "sha": "85e23a429634048a2e9addc808914c1c43083083f5e21f2bf3c39c49e5af38b5",
+    "version": "0.0.3"
+  },
+  "archers-1.2.5+1.20.1.jar": {
+    "repoLink": "https://github.com/DixDox-Studio/FabricAdventure",
+    "sha": "0f1a0eeddc735cb44c996ab01044a163ab9857e5ad5bdf29bd5144f067f9a122",
+    "version": "0.0.3"
+  },
+  "archers-expansion-0.1.2-1.20.1.jar": {
+    "repoLink": "https://github.com/DixDox-Studio/FabricAdventure",
+    "sha": "a4b8353fffdfee6a957f2c1fd39fedc3065aea7e91d12d227e8989cdc8227662",
+    "version": "0.0.3"
+  },
+  "architectury-9.2.14-fabric.jar": {
+    "repoLink": "https://github.com/DixDox-Studio/FabricAdventure",
+    "sha": "bd7a7032bedb2ff96c6991a846a44c857336a51442a105f5859017e8ba9d1321",
+    "version": "0.0.1"
+  },
+  "awesomedungeon-fabric-1.20.1-3.2.0.jar": {
+    "repoLink": "https://github.com/DixDox-Studio/FabricAdventure",
+    "sha": "69d13a9999ebd28894846623ef4323047fa4b6ea22c995be35648381b243a004",
+    "version": "0.0.3"
+  },
+  "azurelib-fabric-1.20.1-2.0.39.jar": {
+    "repoLink": "https://github.com/DixDox-Studio/FabricAdventure",
+    "sha": "a58c22b00ef4b49ed26d37cbdb29377b4af9fecc3dae11235d9ca8e8e83cc7b5",
+    "version": "0.0.3"
+  },
+  "azurelibarmor-fabric-1.20.1-2.0.12.jar": {
+    "repoLink": "https://github.com/DixDox-Studio/FabricAdventure",
+    "sha": "d5516f1bcc63591ae628bb6424f7af111639fee1d0270f4e9173286bbf50a875",
+    "version": "0.0.3"
+  },
+  "balm-fabric-1.20.1-7.3.9.jar": {
+    "repoLink": "https://github.com/DixDox-Studio/FabricAdventure",
+    "sha": "25bcc653cdf0539e3f487575b8594c41ca9f4b87a15690b01953b1e0a1fd2042",
+    "version": "0.0.3"
+  },
+  "battlemages-0.0.5-1.20.1.jar": {
+    "repoLink": "https://github.com/DixDox-Studio/FabricAdventure",
+    "sha": "0150a3552fd40666aa326d34fbe51aadccabf668c44e23457855638c69761505",
+    "version": "0.0.3"
+  },
+  "bclib-3.0.14.jar": {
+    "repoLink": "https://github.com/DixDox-Studio/FabricAdventure",
+    "sha": "391fa2a8d7e369b088c66d1f230c3951e1d83f19d60555b2efea5394d8bcfc51",
+    "version": "0.0.3"
+  },
+  "bedspreads-fabric-6.2.0+1.20.1.jar": {
+    "repoLink": "https://github.com/DixDox-Studio/FabricAdventure",
+    "sha": "a55680019e7c2c9625216d5a7f807607cc96151f60d419c8c282dde0d5150a59",
+    "version": "0.0.3"
+  },
+  "beekeeperhut-fabric-mc1.20.1-2.0.1.jar": {
+    "repoLink": "https://github.com/DixDox-Studio/FabricAdventure",
+    "sha": "0414790a1300825f5e0bd760e838af4a4794b477931627cb48f5db06ab4287cd",
+    "version": "0.0.3"
+  },
+  "berserker-class-mod-1.1.0.jar": {
+    "repoLink": "https://github.com/DixDox-Studio/FabricAdventure",
+    "sha": "a4cecb0ef0253d70fd6cfa7ef2f7027bfbf136e845d7dacfa5c61b002d71216e",
+    "version": "0.0.3"
+  },
+  "better-end-4.0.11.jar": {
+    "repoLink": "https://github.com/DixDox-Studio/FabricAdventure",
+    "sha": "285feee4a2602ac66f7b4d92f0d972ac872aec513c2b61a8f6f447ca3dc08420",
+    "version": "0.0.3"
+  },
+  "better-nether-9.0.10.jar": {
+    "repoLink": "https://github.com/DixDox-Studio/FabricAdventure",
+    "sha": "a516b6be2576292639ee21c495be6cae3a9e3c5e9c84c6fbab092895c314fe64",
+    "version": "0.0.3"
+  },
+  "betterarcheology-1.2.1-1.20.1.jar": {
+    "repoLink": "https://github.com/DixDox-Studio/FabricAdventure",
+    "sha": "5bb95c809c158cbe4f765593ef0490166dd4e4923993fc31959a95f7368b7877",
+    "version": "0.0.3"
+  },
+  "bettercombat-fabric-1.8.6+1.20.1.jar": {
+    "repoLink": "https://github.com/DixDox-Studio/FabricAdventure",
+    "sha": "f4207c42ea0b880da10e0ad77dfd61d9eeeea154fc46c31330dc595da1e176de",
+    "version": "0.0.3"
+  },
+  "borderless-mining-1.1.8+1.20.1.jar": {
+    "repoLink": "https://github.com/DixDox-Studio/FabricAdventure",
+    "sha": "115fcbf03eb768bab073b337798289e998f13fc62a6a997971d7ccfd02e6a56a",
+    "version": "0.0.3"
+  },
+  "cardinal-components-api-5.2.2.jar": {
+    "repoLink": "https://github.com/DixDox-Studio/FabricAdventure",
+    "sha": "ff64b5b9c9d7aafa28e39cd34be0cfeeaf978da850ddf3983ba3073a2acdace1",
+    "version": "0.0.3"
+  },
+  "cleannarsenal-1.0.13+1.20.1.jar": {
+    "repoLink": "https://github.com/DixDox-Studio/FabricAdventure",
+    "sha": "696cf97bede5dceda05b70ddc73390ca8e8b907a2d2f45b66f5279a3990bd2de",
+    "version": "0.0.3"
+  },
+  "clickadv-fabric-1.20.1-3.8.jar": {
+    "repoLink": "https://github.com/DixDox-Studio/FabricAdventure",
+    "sha": "8d130d383fff2b7acd41a66ffe4a9d6079bb19af9425a5a99d541240410aaaa6",
+    "version": "0.0.3"
+  },
+  "cloth-config-11.1.136-fabric.jar": {
+    "repoLink": "https://github.com/DixDox-Studio/FabricAdventure",
+    "sha": "844f49c339c8f3144e167ab21b7d0059f0d571054e26285a0749348da25c49fa",
+    "version": "0.0.3"
+  },
+  "combatplus-core-1.1.0+1.20.1.jar": {
+    "repoLink": "https://github.com/DixDox-Studio/FabricAdventure",
+    "sha": "648fac0558328e740aa2c2f2914890efb668aa806216264f064cf922ecc8d1f3",
+    "version": "0.0.3"
+  },
+  "combatroll-fabric-1.3.3+1.20.1.jar": {
+    "repoLink": "https://github.com/DixDox-Studio/FabricAdventure",
+    "sha": "660026ba5bffd797a051fb8fe762ad6579feebf25f23c51d415ea251bdf75260",
+    "version": "0.0.3"
+  },
+  "common-networking-fabric-1.0.5-1.20.1.jar": {
+    "repoLink": "https://github.com/DixDox-Studio/FabricAdventure",
+    "sha": "faa320a55194d0f903a4a60fdf3f6594f5ee8438e39c621d424cf371e535f379",
+    "version": "0.0.3"
+  },
+  "cookingforblockheads-fabric-1.20.1-16.0.9.jar": {
+    "repoLink": "https://github.com/DixDox-Studio/FabricAdventure",
+    "sha": "fb8d5c718729060e4c45578775b46ae3b4f99a09b2cd0d66189e0f3ab3e7b453",
+    "version": "0.0.3"
+  },
+  "corail_woodcutter-fabric-1.20.1-3.0.6.jar": {
+    "repoLink": "https://github.com/DixDox-Studio/FabricAdventure",
+    "sha": "c5058383f78f0b86a1b7c16ada7d1eb9cfc594d0b39371367a64ef1c87c2a7fd",
+    "version": "0.0.3"
+  },
+  "creeper-healing-1.0.0-1.20.jar": {
+    "repoLink": "https://github.com/DixDox-Studio/FabricAdventure",
+    "sha": "3d17313e46665f146fe08ee813fedc754a4f412565290ed0301a079409844551",
+    "version": "0.0.3"
+  },
+  "creeperoverhaul-3.0.2-fabric.jar": {
+    "repoLink": "https://github.com/DixDox-Studio/FabricAdventure",
+    "sha": "cdbfbdfe66dab1791b9a79f11fffa64615e7d8f70a8dbe2228aed7f147e32d43",
+    "version": "0.0.3"
+  },
+  "cristellib-1.1.5-fabric.jar": {
+    "repoLink": "https://github.com/DixDox-Studio/FabricAdventure",
+    "sha": "6d4e73a95e7bee1e0f9b2a531d40fcc255490c064f4607f58d11f48c4c61101b",
+    "version": "0.0.3"
+  },
+  "cupboard-fabric-1.20.1-2.7.jar": {
+    "repoLink": "https://github.com/DixDox-Studio/FabricAdventure",
+    "sha": "3ce1eba640c2f7e28c7b769255996f19d9776ab8add481caa84a24dabe0c80a5",
+    "version": "0.0.3"
+  },
+  "cushypillows-1.0.3+1.20.1.jar": {
+    "repoLink": "https://github.com/DixDox-Studio/FabricAdventure",
+    "sha": "ee3313c79be17edd5861ced012998642ab079b6c4fa882b76c1033d4fdd0b94e",
+    "version": "0.0.3"
+  },
+  "darkbosses-fabric-1.20.1-1.0.4.jar": {
+    "repoLink": "https://github.com/DixDox-Studio/FabricAdventure",
+    "sha": "12c20e08f3adf46f809837af574f60ad5235ca291534ef897c7db87ae0bc2f40",
+    "version": "0.0.3"
+  },
+  "darkmobs-fabric-1.20.1-1.1.3.jar": {
+    "repoLink": "https://github.com/DixDox-Studio/FabricAdventure",
+    "sha": "fce9ce8b2fb00ba2d61944d5ca72a94ff1f549110e746f67bb3a0946bb0cdba6",
+    "version": "0.0.3"
+  },
+  "dawn-5.0.0.jar": {
+    "repoLink": "https://github.com/DixDox-Studio/FabricAdventure",
+    "sha": "6346c996358b889a5b0c3102889b71ffe16dd3852e06e6579d0f7f0d47d29313",
+    "version": "0.0.3"
+  },
+  "decorative_blocks-fabric-1.20.1-4.1.3.jar": {
+    "repoLink": "https://github.com/DixDox-Studio/FabricAdventure",
+    "sha": "9273e91494670ddab6feaa6151df5a65c05966fe14306476e67ab77af37f4f72",
+    "version": "0.0.3"
+  },
+  "deeperdarker-fabric-1.20-1.3.2.1.jar": {
+    "repoLink": "https://github.com/DixDox-Studio/FabricAdventure",
+    "sha": "2263d5d12232e3f8a9153c45a75570f7a88a05c48db3138aa90afa36ed5624df",
+    "version": "0.0.3"
+  },
+  "dimdoors-5.4.1-fabric.jar": {
+    "repoLink": "https://github.com/DixDox-Studio/FabricAdventure",
+    "sha": "2ec07f1837c39b77d4e7c518c53f4a5ff4089fe235ad87ab3266900eea47de8c",
+    "version": "0.0.3"
+  },
+  "dragonscale-0.0.1-1.20.1.jar": {
+    "repoLink": "https://github.com/DixDox-Studio/FabricAdventure",
+    "sha": "582ef2ee325e63a0349fff68e3c6a0eac868aace66c88feb4265b999d389c287",
+    "version": "0.0.3"
+  },
+  "dragonsteel-0.0.2-1.20.1.jar": {
+    "repoLink": "https://github.com/DixDox-Studio/FabricAdventure",
+    "sha": "af0891556b310ee7c2bc538749ee99fea4f7c59b07f5668aa012fd53849f1fe9",
+    "version": "0.0.3"
+  },
+  "druids-0.9.8.0.jar": {
+    "repoLink": "https://github.com/DixDox-Studio/FabricAdventure",
+    "sha": "ccb8d7f43d1b3bc65eb2a535214081a05aaacace128596795f57fb54d0292df6",
+    "version": "0.0.3"
+  },
+  "dungeon_difficulty-2.2.1+1.20.1.jar": {
+    "repoLink": "https://github.com/DixDox-Studio/FabricAdventure",
+    "sha": "a798e314cf430bf55a95d61b0c635836856695cc75996ceda571ec9df6895b9f",
+    "version": "0.0.3"
+  },
+  "trinkets-3.7.2.jar": {
+    "repoLink": "https://github.com/DixDox-Studio/FabricAdventure",
+    "sha": "a6f11a4206c1285cd260a60d9bfe9cefa9914d2190d08b3c52050f42044b53b3",
+    "version": "0.0.3"
+  },
+  "u_team_core-fabric-1.20.1-5.1.4.326.jar": {
+    "repoLink": "https://github.com/DixDox-Studio/FabricAdventure",
+    "sha": "ef4d93bef7061b903ee31952469d67bf87a1191f8515df739e39bc23711fdca1",
+    "version": "0.0.3"
+  },
+  "universal_ores-1.5.2.jar": {
+    "repoLink": "https://github.com/DixDox-Studio/FabricAdventure",
+    "sha": "03a9ffc628f8ed05a79bed7a84c640b770dd7ba41a4ba5b9a969fd856c6a67e4",
+    "version": "0.0.3"
+  },
+  "version": "0.0.3",
+  "villagesandpillages-fabric-mc1.20.1-1.0.1.jar": {
+    "repoLink": "https://github.com/DixDox-Studio/FabricAdventure",
+    "sha": "417e5bb4af97e8da5c40badd081e3bdf292b40c51f2702b0f9709934a563e1a4",
+    "version": "0.0.3"
+  },
+  "visuality-0.7.1+1.20.jar": {
+    "repoLink": "https://github.com/DixDox-Studio/FabricAdventure",
+    "sha": "f95afc78d944a06f807c683f5959878d8214d775cd81ecbbbc076fc43763202a",
+    "version": "0.0.3"
+  },
+  "waystones-fabric-1.20-14.1.6.jar": {
+    "repoLink": "https://github.com/DixDox-Studio/FabricAdventure",
+    "sha": "972620e677cdd88700ab96f6bc09959f22671f549b9b287dfc517a471739dc82",
+    "version": "0.0.3"
+  },
+  "witcher-class-mod-1.1.2.jar": {
+    "repoLink": "https://github.com/DixDox-Studio/FabricAdventure",
+    "sha": "bf5a5d6fb4bf4f03c387979a6a16fabfeaa929bf666edf0b852086b686cc8d14",
+    "version": "0.0.3"
+  },
+  "wizards-1.3.0+1.20.1.jar": {
+    "repoLink": "https://github.com/DixDox-Studio/FabricAdventure",
+    "sha": "eebcdce6d0b7126115f95e334aa4a2c48f12e9ff4d8feaebf11b3672f429d748",
+    "version": "0.0.3"
+  },
+  "youre-in-grave-danger-fabric-2.0.10.jar": {
+    "repoLink": "https://github.com/DixDox-Studio/FabricAdventure",
+    "sha": "d6acdb865278bda2c390c16b9e6a473f951d5fde0cfa505ae9437c36ea387df3",
+    "version": "0.0.3"
+  },
+  "z_mcwroofsbyg-fabric-1.20.1-1.0.jar": {
+    "repoLink": "https://github.com/DixDox-Studio/FabricAdventure",
+    "sha": "1f8d020d29a5b8e7127de80f58acdcf3bac5ebb7b820f3ce17a2654a165d0229",
+    "version": "0.0.3"
+  }
+}
